@@ -1,1 +1,1 @@
-# Dicovery-and-deterrence-of-sql-injection-attacks-using-machine-learning
+# Dicovery-and-deterrence-of-sql-injection-attacks-using-machine-learning algorithms Logistic regression, Support Vector Machine and Extreme Gradient Boosting has been used for model building.Web page is created by deploying the machine learning models.
